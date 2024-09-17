@@ -1,1 +1,5 @@
-![sliski](https://github.com/krzewnic/5at_2024/blob/main/sliski-inf02.gif)
+![sliski](https://github.com/krzewnic/5ct_2024/blob/main/sliski-inf02.gif)
+![znowu](https://github.com/krzewnic/5ct_2024/blob/main/znowu.gif)
+![2razy](https://github.com/krzewnic/5ct_2024/blob/main/2razy.gif)
+![arkusz4](https://github.com/krzewnic/5ct_2024/blob/main/arkusz4.gif)
+![kwalifikacja](https://github.com/krzewnic/5ct_2024/blob/main/kwalifikacja.gif)
